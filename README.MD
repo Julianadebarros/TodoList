@@ -22,7 +22,7 @@ Esta é um **To-Do List** construída com **FastAPI**, **Tortoise ORM** e **OAut
 
 ## 🤝 Como Contribuir
 
-Contribuições são bem-vindas! Se quiser sugerir melhorias ou corrigir algo, siga os passos:
+Contribuições são bem-vindas! +++Se quiser sugerir melhorias ou corrigir algo, siga os passos:
 
 1. Fork este repositório
    
