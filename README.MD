@@ -11,7 +11,7 @@ Esta é um **To-Do List** construída com **FastAPI**, **Tortoise ORM** e **OAut
 - **Atualizar Tarefa**
 - **Excluir Tarefa**
 
-## Tecnologias Utilizadas
+## 🤝 Tecnologias Utilizadas
 
 - **FastAPI**: Um framework moderno e rápido (alto desempenho) para a construção de APIs com Python.
 - **Tortoise ORM**: Um ORM assíncrono inspirado no Django, projetado para funcionar com FastAPI.
